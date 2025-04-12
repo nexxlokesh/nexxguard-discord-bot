@@ -1,0 +1,27 @@
+{
+    "DISCORD_TOKEN": "your bot token",
+    "servers": {
+        "126855450944188": {
+            "AUTHORIZED_USER_IDS": ["1268797232468201555", "1249565202022662145", "1253225665042579502"],
+            "CLIENT_ROLE_ID": 1268567304749318186,
+            "WELCOME_CHANNEL_ID": "1300666416797585451",
+            "WELCOME_IMAGE_URL": "https://i.postimg.cc/BvdG34JP/WLCM.gif",
+            "RULES_CHANNEL_ID": "1268555653077667910",
+            "MAIN_CHAT_CHANNEL_ID": "1268557752578605066",
+            "MEMBER_COUNT_CHANNEL_ID": "1303283929574277180",
+            "MEMBER_ROLE_NAME": "Members",
+            "EMBED_COLOR": 16711935
+        },
+        "1303065827121200": {
+            "AUTHORIZED_USER_IDS": ["1205608443424284764"],
+            "CLIENT_ROLE_ID": 1303076920849727618,
+            "WELCOME_CHANNEL_ID": "1303068421252059137",
+            "WELCOME_IMAGE_URL": "https://i.postimg.cc/63GwVqGm/Code-Canvas.gif",
+            "RULES_CHANNEL_ID": "1303068511429722132",
+            "MAIN_CHAT_CHANNEL_ID": "1303069784178692096",
+            "MEMBER_COUNT_CHANNEL_ID": "1303072172360597584",
+            "MEMBER_ROLE_NAME": "Jewels",
+            "EMBED_COLOR": 255
+        }
+    }
+}
